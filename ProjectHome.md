@@ -1,0 +1,2 @@
+This is a simulation of  a stock market where a user buys and sells virtual shares.The prices change based on the demand and supply criteria.The game is developed using php and MySql and can be hosted using XAMPP/LAMPP.
+The share prices are NOT live and are totally a part of the game.
